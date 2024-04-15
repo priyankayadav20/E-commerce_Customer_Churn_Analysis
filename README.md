@@ -26,9 +26,7 @@ Churn Rate, sometimes known as attrition rate, is the rate at which customers st
 Customer Churn refers to the natural business cycle of losing and acquiring customers. Every company — no matter the quality of its products or customer service experiences churn. In the context of businesses, customer churn can occur due to factors such as dissatisfaction with the product or service, competitive offerings, or changes in circumstances or preferences of the customer. Generally speaking, the less churn a company has, the more customers they keep.
 
 # Data Collection
-I got this dataset from \
-**Link:** [Kaggle]([02-Churn-Dataset.xlsx](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?sort=most-comments))
-, and it contains information such as customers' personal details, satisfaction scores, preferred payment mode, days since the last order, and cashback amount.
+I got this dataset from [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?sort=most-comments), and it contains information such as customers' personal details, satisfaction scores, preferred payment mode, days since the last order, and cashback amount.
 
 # Skills
 - Data Cleaning
@@ -83,4 +81,4 @@ Converting data into a standard format, such as converting all text to lowercase
 -By implementing these recommendations, this company can improve customer retention, reduce churn rates, and build long-term loyalty, leading to sustainable growth and success.
 
 # Dashboard
-![](e_commerce_analysis.docx)
+[Repot](https://github.com/priyankayadav20/E-commerce_Customer_Churn_Analysis/blob/main/ecomemerce_customer_churn.pdf)
