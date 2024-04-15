@@ -5,7 +5,7 @@ Analyzing customer churn within an online e-commerce company using exploratory d
 - Project Details
 - Data Collection
 - Skills
-- Sodtwares Used
+- Softwares Used
 - Insights
 - Recommendations
 - Dashboard
