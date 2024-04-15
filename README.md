@@ -81,3 +81,6 @@ Converting data into a standard format, such as converting all text to lowercase
 - Proactively engage and reward satisfied customers across all satisfaction levels. Regularly communicate with them through personalized messages, exclusive offers, and loyalty programs to maintain their loyalty and reduce the risk of churn.
 - Consider increasing cashback incentives to retain customers, especially those who are more likely to churn. Conduct A/B testing to determine the most effective cashback levels that encourage higher customer retention rates.
 -By implementing these recommendations, this company can improve customer retention, reduce churn rates, and build long-term loyalty, leading to sustainable growth and success.
+
+# Dashboard
+![](Images/1-Demographics.png)
