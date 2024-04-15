@@ -81,4 +81,4 @@ Converting data into a standard format, such as converting all text to lowercase
 -By implementing these recommendations, this company can improve customer retention, reduce churn rates, and build long-term loyalty, leading to sustainable growth and success.
 
 # Dashboard
-[Repot](https://github.com/priyankayadav20/E-commerce_Customer_Churn_Analysis/blob/main/ecomemerce_customer_churn.pdf)
+[Report](https://github.com/priyankayadav20/E-commerce_Customer_Churn_Analysis/blob/main/report.png))
